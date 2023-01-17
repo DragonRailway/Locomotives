@@ -1,9 +1,9 @@
 # Dragon F7 Locomotive
 - 1/64 Scale
 - 
-![](images/F7-Pers.png | width=500px)
+![](images/F7-Pers.png)
 
-![](images/Dragon-Railway.gif | width=100px)
+![](images/Dragon-Railway.gif)
 ### Assembly Manual: [Google docs](https://docs.google.com/presentation/d/1AxjxZsO5vrXmXC-GFSj-jBn4ESSynoftXoCb3mvGecE)
 ## Hardware required:
 - N20 Motor (6V 1000RPM) - 2pcs
