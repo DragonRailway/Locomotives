@@ -9,5 +9,6 @@
 /*.gcode
 
 /testing/
+**/Cura Files/
 **/Cura files/
 **/cura files/
